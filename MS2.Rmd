@@ -1,0 +1,30 @@
+---
+title: "Gov 1005 Final Project MS2"
+author: "Ilyas Mardin"
+date: "2/14/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Parker Mas: Behind Billboard: Exploring the Audio Features of Pop Music. Analyzes Billboard Hot 100 chart data and song audio features in order to provide interesting data visualizations and model peak song popularity.
+
+Pros:
+This project went very in-depth in the data it used, going back decades, and giving a comprehensive overview of the trends of pop music. The project also asked intriguing questions, such as asking why the most popular songs were not by the most popular artists. It also used the data to effectively draw conclusions that might have implications for the future. In particular, its manipulation of the large data set to examine the impact of each of the features of a song to predict its eventual popularity was notable. Visually, the graphs were aesthetically pleasing, easy to read, and well-explained.
+
+Cons:
+The main problem I found with this project was its definition of popularity. The project measured a song’s popularity by seeing how many weeks it spent on the Billboard Hot 100 chart, but did not take into account its position in the chart, a metric I would suggest is also useful to ascertain a song’s popularity.
+
+
+
+Robert McKenzie: NYC Taxi Pickup and Dropoff VIsualization
+
+Pros:
+This was visually very clear, and the data was concisely summarised in a couple of graphs.
+
+Cons:
+One of the main problems I saw with this project was the tip graph. To me, the r value looked too low – the points were too far away from the line – to meaningfully draw a correlation, or line of best fit between any of the variables and average tip percentage. Another criticism I might have is that while the data is well summarised and well displayed, there is not much discussion. It might have been nice to draw some conclusions from the data, and ask if this is expected, or if it is in line with current observed trends.
